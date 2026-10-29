@@ -103,3 +103,16 @@ Related reading: [Anthropic on building effective agents](https://www.anthropic.
 CC BY 4.0. Free to use with attribution.
 
 Skill by Jay E at [RoboNuggets](https://robonuggets.com). Technique by Matt Shumer.
+
+
+## Esta versão (fork de RenatoWernik)
+
+Este fork é uma versão adaptada do [gauntlet-loop](https://github.com/robonuggets/gauntlet-loop) original, distribuída sob a mesma licença CC BY 4.0. O crédito do original é do autor dele.
+
+**O que mudou** (em `.claude/skills/gauntlet-loop/SKILL.md`):
+- modelo e esforço por papel (crítico, desenvolvedores, tester);
+- builders e crítico em contas ou quotas separadas (Claudex/ccx);
+- reprodução exata de uma fonte («exatamente os mesmos textos e imagens»).
+
+É a versão que o plugin [forge](https://github.com/RenatoWernik/forge) instala.
+
